@@ -1,4 +1,7 @@
-﻿public class Program
+﻿
+namespace TestGit2;
+
+public class Program
 {
     public static int AddFunction(int a, int b)
     {
